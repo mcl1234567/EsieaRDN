@@ -9,5 +9,5 @@ Il y a 3 couches de neurones avec : <br />
 * la dernière couche, le seul neurone de 'sortie'.
 
 Certaines des fonctions nous permettent d'appliquer des coefficients inconnus à des éléments d'une matrice afin d'obtenir un certain résultat connu d'avance.<br />
-Cela est possible avec la régression linéaire.<br />
-Il faut arriver, à partir de n'importe quel point dans l'espace, à tendre vers 0, sans jamais s'en éloigner suite à un trop grand écart, pour cela il faut minimiser l'erreur.
+Cela est possible avec la régression linéaire :<br />
+Il faut arriver, à partir de n'importe quel point dans l'espace, à tendre vers 0, sans jamais s'en éloigner suite à un trop grand écart, pour cela il faut minimiser l'erreur existante.
