@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 #plt.plot(tab, [1, 2, 3, 4, 5, 6, 7, 8, 9])
 
-csv = np.loadtxt("/home/sb/4A/rdn/winequality-red.csv", delimiter=';', skiprows=1)
+csv = np.loadtxt("./donnees/winequality-red.csv", delimiter=';', skiprows=1)
 
 #lignes - colonnes
 X = csv[:, 0:11]
